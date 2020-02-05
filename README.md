@@ -22,6 +22,23 @@ Index:
   of classical philology and the "techné" of software engineering wasn´t easy. I had to ask my childhood friend and colleague
   Santiago Buitrago for help with the programming. He kindly accepted and took part in this endeavour, teaching me the basics
   of Python and helping me with the creation of the code. By rule, this makes him co-creator and co-owner of this code, so you,
-  The Reader, may see the same files in another repo. About this I will explain with more depth in the third part of this Readme.
+  The Reader, may see the same files in another repo. About this I will explain with more depth in the 
+  third part of this Readme.
   
-  The point of this program is the 
+  The point of this program is the automatic translation of a colonial book "Physices Tractatus" written by Mateo Mimbela, a
+  Catholic Priest from XVI-XVII century. He was a missionary from Spain who did his work in Colonial Colombia. This book is the
+  written testimony of his classes as a professor in the Rosary Collegue, one of the oldest (if not the oldest) higher education
+  center in the Americas. This work compiles his thoughts about philosophy, physics and theology, following the Sant Thomas 
+  Aquinas method for argumentation. The only tome avariable is locatedin the National Library of Colombia. This beautiful 
+  text is written in a very standarized handwritting, possibly written by one of the students of his class.
+  
+  One of the most difficult parts in transcribing and reading this text is the amount of abbreviations. Due the time constrains 
+  the student faced during the class a lot of often used words are abbreviated, creating a puzzle which image was lost centuries 
+  ago and making this transcription process even harder. The abbreviations range from using a different symbol, such as 
+  enlongated u's or a's; disregarding the vowels in a long letter word and using a special symbol to signifying the missing
+  letter, to the point of just missing letters or words without any type of marking. This text becomes arcane even for the
+  experts in the philological sciences and working with it demands an amazing amount of pacience and knowledge, due the
+  complicated topics it delves in. 
+ 
+ There is also the idea of lost knowledge. Many of the books that were written in the colonial times, at least in Colombia,
+ were handwritten in latin, for many historical reasons that may not be of importance in this Read me, 
