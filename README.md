@@ -12,7 +12,8 @@ Index:
 3. Other information.
 4. Thanks.
 
-1. Introduction:
+
+Introduction:
 
   This programs was created for my (Iván) undergraduate theses, which is named "Advances towards the automatic transcription".
   While it sounds ambicious, have in mind that this technology is still in its infancy in the Latin American region, at least
