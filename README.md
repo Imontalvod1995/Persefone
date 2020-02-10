@@ -13,7 +13,7 @@ Index:
 4. Thanks.
 
 
-#Introduction:
+# Introduction:
 
   This programs was created for my (Iván) undergraduate theses, which is named "Advances towards the automatic transcription".
   While it sounds ambitious, have in mind that this technology is still in its infancy in the Latin American region, at least
@@ -53,7 +53,7 @@ Index:
  we will update it, creating a user-friendly, powerful tool.
  
  
-#Explanation and usage:
+# Explanation and usage:
 
   This program only runs in a Python environment, for it doesn't have a GUI yet. The recommended modules and libraries are: 
   glob, os, shutil, tkinter, NumPy, OpenCV(version 3.3.0.10), Matplotlib,Sklearn, and PIL. The file to run the program
@@ -63,7 +63,7 @@ Index:
   It's important to have the trainData folder in the same location the files are, so the program can run correctly.
 
 
-#Other Information:
+# Other Information:
   
   As stated before, this program is also being worked by Santiago Buitrago, so a lot of new features would be updated first in
   his GitHub, depending on our schedule and who is developing the program. Right now, He is working in different options for
@@ -81,7 +81,7 @@ Index:
    Url: https://filosofia.javeriana.edu.co/investigacion/grupos-investigacion/bvpfc/publicaciones-bvpfcpc
 
 
-#Thanks:
+# Thanks:
    
   Thank you to my Advisors, Juan Felipe Gonzalez Calderon and Flavio Augusto Prieto Ortiz. Also the National University of
   Colombia, place of many joys and challenges. Finally, many thanks to Santiago Buitrago, a great colleague and even better
