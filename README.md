@@ -64,10 +64,15 @@ Explanation and usage:
   
   Image 1: how to select the corners of the paragraph.
   
- 1 o                   o 4
-   |                   |
-   |                   |
-   |                   |
+ 1 o ~~~~~~~~~~~~~~~~~ o 4
+   | ~~~~~~~~~~~~~~~~~ |
+   | ~~~~~~~~~~~~~~~~~ |
+   | ~~~~~~~~~~~~~~~~~ |
  2 o-------------------o 3
+ 
+
+Other Information:
+  
+  
  
  
