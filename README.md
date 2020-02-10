@@ -1,5 +1,5 @@
 ##################################################################
-##                 Perséfone Version 0.01 (Prototype)           ##
+##                 Perséfone Alpha Test (Prototype)             ##
 ##            Created by Iván Montalvo and Santiago Buitrago    ##
 ##################################################################
 
@@ -43,4 +43,31 @@ Introduction:
  
  There is also the concept of lost knowledge. Many of the books that were written in the colonial times, at least in Colombia,
  were handwritten in latin, for many historical reasons that may not be of importance in this Read me, which didn´t allow the 
- flow of information among the common people.
+ flow of information among the common people. Thus, this knowledge must have to be digged through the process of transcription
+ and translation. This is one of the main reasons why I created this program. Colombia is a country that needs to learn its own
+ history and culture, which is hidden because of political and historical reasons. I will put in the last part some bibliography
+ that will support this.
+ 
+ To summarize, Perséfone is a program to transcribe colonial texts to make them easier to translate. This will help to regain
+ Colombia's colonial heritage. This program is just a prototype created to be a proof of concept, and with a lot of hard work
+ we will update it, creating a user-friendly, powerful tool.
+ 
+ 
+Explanation and usage:
+
+  This program only runs in a Python environment, for it doesn't have a GUI yet. The recommended modules and libraries are: 
+  glob, os, shutil, tkinter, NumPy, OpenCV(version 3.3.0.10), Matplotlib,Sklearn, and PIL. The file to run the program
+  is GUI.py, and must use the example image. After selecting four points in the image with a click, which must be 
+  the paragraph corners (see image 1). After the processing time, in the folder where the program is allocated you will 
+  find the results, an image with the letter character and the top five meaning options. It's important to have the trainData
+  folder in the same location the files are, so the program can run correctly.
+  
+  Image 1: how to select the corners of the paragraph.
+  
+ 1 o                   o 4
+   |                   |
+   |                   |
+   |                   |
+ 2 o-------------------o 3
+ 
+ 
