@@ -29,7 +29,7 @@ Index:
   The point of this program is the automatic translation of a colonial book "Physices Tractatus" written by Mateo Mimbela, a
   Catholic Priest from XVI-XVII century. He was a missionary from Spain who did his work in Colonial Colombia. This book is the
   written testimony of his classes as a professor in the Rosary College, one of the oldest (if not the oldest) higher education
-  center in the Americas. This work compiles his thoughts about philosophy, physics and theology, following the Sant Thomas 
+  center in the Americas. This work compiles his thoughts about philosophy, physics and theology, following the Saint Thomas 
   Aquinas method for argumentation. The only tome available is located in the National Library of Colombia. This beautiful 
   text is written in a very standardized handwriting, written by one of the students of his class.
   
