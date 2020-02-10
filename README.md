@@ -55,9 +55,9 @@ Index:
 # Explanation and usage:
 
   This program only runs in a Python environment, for it doesn't have a GUI yet. The recommended modules and libraries are 
-  glob, os, shutil, tkinter, NumPy, OpenCV(version 3.3.0.10), Matplotlib,Sklearn, and PIL. The file to run the program
-  is GUI.py and must use the example image (rm_149_021). After selecting four points in the image with a click, which must be 
-  the paragraph corners (see image 1 in the main branch). After the processing time, in the folder where 
+  glob, os, shutil, tkinter, NumPy, OpenCV(version 3.3.0.10 with the cv2_contrib), Matplotlib,Sklearn, and PIL. The file to run 
+  the program is GUI.py and must use the example image (rm_149_021). After selecting four points in the image with a click, 
+  which must be the paragraph corners (see image 1). After the processing time, in the folder where 
   the program is allocated you will find the results, an image with the letter character and the top five meaning options. 
   It's important to have the trainData folder in the same location as the files, so the program can run correctly.
 
