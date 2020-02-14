@@ -4,7 +4,7 @@
 ##################################################################
 
 This is the Repository for the Project Perséfone. In here, you will find the parts for running the program,
-including the Readme (that you're reading!) and a sample image for testing.
+including the Readme (that you're reading!), a sample image for testing, the training bank and a result sample.
 
 Index:
 1. Introduction.
